@@ -10,7 +10,6 @@ export const HelmetMetaTags = () => (
     <meta name="twitter:card" content="summary_large_image" />
     <meta property="og:site_name" content="European Travel, Inc." />
     <meta name="twitter:image:alt" content="Alt text for image" />
-    <meta property="fb:app_id" content="your_app_id" />
     <meta name="twitter:site" content="@website-username" />
   </Helmet>
 )
