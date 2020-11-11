@@ -22,5 +22,6 @@ export const HelmetMetaTags = ({ url, description, title, quote, image }) => (
     <meta property="og:image" content={image} />
     <meta content="image/*" property="og:image:type" />
     <meta property="og:description" content={description} />
+    <meta data-rh="true" property="fb:app_id" content="542599432471018"></meta>
   </Helmet>
 )
