@@ -8,11 +8,12 @@ export const HelmetMetaTags = () => (
     <meta name="description" content="GitHub is where over 50 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it." />
     <meta property="fb:app_id" content="1401488693436528" />
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://github.githubassets.com/images/modules/open_graph/github-mark.png" />
-    <meta name="twitter:site" content="@github" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="GitHub: Where the world builds software" />
-    <meta name="twitter:description" content="GitHub is where over 50 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and feat..." />
+    <meta name="twitter:site" content="@nytimes" />
+    <meta name="twitter:creator" content="@SarahMaslinNir" />
+    <meta name="twitter:title" content="Parade of Fans for Houston’s Funeral" />
+    <meta name="twitter:description" content="NEWARK - The guest list and parade of limousines with celebrities emerging from them seemed more suited to a red carpet event in Hollywood or New York than than a gritty stretch of Sussex Avenue near the former site of the James M. Baxter Terrace public housing project here." />
+    <meta name="twitter:image" content="http://graphics8.nytimes.com/images/2012/02/19/us/19whitney-span/19whitney-span-articleLarge.jpg" />
     <meta property="og:image" content="https://github.githubassets.com/images/modules/open_graph/github-mark.png" />
     <meta property="og:site_name" content="GitHub" />
     <meta property="og:type" content="object" />
@@ -46,6 +47,5 @@ export const HelmetMetaTags = () => (
     <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000" />
     <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon-dark.png" />
     <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon-dark.svg" />
-    <link rel="manifest" href="/manifest.json" crossorigin="use-credentials" />
   </Helmet>
 )
